@@ -1,0 +1,12 @@
+Serial number: 1
+Valid from: Thu Jan 30 13:20:43 IST 2020 until: Sat Jan 22 13:20:43 IST 2050
+Certificate fingerprints:
+         SHA1: 3A:E1:C1:CD:1F:5B:50:67:35:A8:62:DE:FB:1B:4B:6A:D9:E0:75:92
+         SHA256: 33:71:9F:E5:3A:0B:A1:32:A7:58:D8:3B:25:FF:D2:FE:37:EA:BC:15:D8:1C:0A:E4:D5:BC:87:31:B5:65:DB:3C
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
+
+
+
+zY00cczs2SG28RTn1bZQvsCftvI=

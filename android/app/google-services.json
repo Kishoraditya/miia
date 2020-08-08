@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685871507406",
+    "firebase_url": "https://miia-5be56.firebaseio.com",
+    "project_id": "miia-5be56",
+    "storage_bucket": "miia-5be56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685871507406:android:33dc2ff859732988946d9f",
+        "android_client_info": {
+          "package_name": "com.kaizaen.miia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685871507406-tpq7sinun58ai5fim97ltpq31pv2tr5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfMPRjfwaHD_AC_6bv_w102jU0hkZ46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685871507406-tpq7sinun58ai5fim97ltpq31pv2tr5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
